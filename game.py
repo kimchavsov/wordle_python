@@ -7,7 +7,6 @@ class Wordle:
     self.__result_board = board.create_board()
     self.current_row = 0
     self.__answer = answer
-    print(self.__answer)
 
   def get_game_board(self):
     return self.__game_board
