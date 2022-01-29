@@ -1,0 +1,7 @@
+# Ignore python compiler file
+board.pyc
+game.pyc
+word_generator.pyc
+
+# cache
+__pycache__
