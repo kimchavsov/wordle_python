@@ -1,5 +1,5 @@
 # Wordle Game
-Recreate a World Game base on command prompt using Python on
+The project is a recreate of the famous Wordle Game base on command prompt using Python
 
 ## General Info
 A puzzle game where we have 6 tries to guess a five-letter word through deduction.
@@ -10,7 +10,7 @@ Game condition, each time you guess a word the letter will turn G, Y, or X to in
 * X mean the letter isn't in the word at all.
 
 ## Setup
-To run this program, with your command prompt change directory to where this main.py file is then type this:
+To run this program, with your command prompt change directory to where this main.py file is, then type this:
 ```
 python3 main.py
 ```
