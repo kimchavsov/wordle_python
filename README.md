@@ -1,5 +1,5 @@
 # Wordle Game
-The project is a recreate of the famous Wordle Game base on command prompt using Python
+The project is a recreation of the famous Wordle Game base on command prompt using Python
 
 ## General Info
 A puzzle game where we have 6 tries to guess a five-letter word through deduction.
