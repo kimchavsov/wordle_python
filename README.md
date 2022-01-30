@@ -12,7 +12,7 @@ Game condition, each time you guess a word the letter will turn G, Y, or X to in
 ## Setup
 To run this program, with your command prompt change directory to where this main.py file is then type this:
 ```
-$ python3 main.py
+python3 main.py
 ```
 
 ## Next Step:
